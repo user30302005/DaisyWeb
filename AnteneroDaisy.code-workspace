@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../anteneromae"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "AnteneroDaisy"
+	}
+}
